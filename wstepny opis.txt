@@ -1,0 +1,5 @@
+aplikacja WPF (ew. ASP.Net) s³u¿¹ca do zarz¹dzania planowaniem slubu i wesela
+mozliwe opcje:
+- tworzenie listy gosci (i dodawanie o nich informacji np. czy potwierdzili przybycie)
+- tworzenie listy zadan (i przypisywanie ich do konkretnych osob, oznaczania czy sa zrealizowane czy nie)
+- zarzadzanie budzetem
